@@ -16,4 +16,4 @@
   * кабелем **Copper Straight-Through** соединим разъём **FastEthernet0/6** коммутатора и **FastEthernet0** - у ПК.
 
 
-![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.jpg)
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20cpt.jpg)
