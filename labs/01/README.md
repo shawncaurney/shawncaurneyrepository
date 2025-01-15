@@ -20,6 +20,12 @@
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20cpt.jpg)
 
-Переходим в ПК, заходим в меню **Terminal**, выбираем подменю **Dekstop** и попадаем в меню управления.
+Переходим в ПК, заходим в меню **Terminal**, выбираем подменю **Dekstop** и попадаем в меню командной строки.
 
-> Press RETURN to get started.
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20.jpg).
+
+Жмём **Enter** и переходим из пользовательского режима EXEC в привелегированный c помощью команды **enable**:
+
+>Switch>enable 
+
+>Switch#
