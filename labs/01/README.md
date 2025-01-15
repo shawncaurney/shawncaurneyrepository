@@ -21,3 +21,5 @@
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.jpg)
 
 Переходим в ПК, заходим в меню **Terminal**, выбираем подменю **Dekstop** и попадаем в меню управления.
+
+'Press RETURN to get started.'
