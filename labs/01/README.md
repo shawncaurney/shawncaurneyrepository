@@ -32,5 +32,6 @@
 
 Для проверки конфигураций на коммутаторе введём команду **show startup-config**:
 
->Switch#show startup-config 
+>Switch#show startup-config
+
 >startup-config is not present
