@@ -10,4 +10,6 @@
     *   Протестировать возможности удаленного управления с помощью Telnet.
 ## Решение:
 
+С помощью  
+
 ![Image alt][labs/issue/топология.jpg](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.jpg)
