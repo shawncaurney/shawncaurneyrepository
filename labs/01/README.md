@@ -22,4 +22,4 @@
 
 Переходим в ПК, заходим в меню **Terminal**, выбираем подменю **Dekstop** и попадаем в меню управления.
 
-'Press RETURN to get started.'
+> Press RETURN to get started.
