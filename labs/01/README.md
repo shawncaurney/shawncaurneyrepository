@@ -10,4 +10,4 @@
     *   Протестировать возможности удаленного управления с помощью Telnet.
 ## Решение:
 
-shawncaurneyrepository/labs/issue/топология.jpg
+labs/issue/топология.jpg
