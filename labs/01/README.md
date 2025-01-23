@@ -35,3 +35,9 @@
 >Switch#show startup-config
 
 >startup-config is not present
+
+Для проверки количества интерфейсов **FastEthernet**, **GigabitEthernet**, а также диапазон **VTY** согласно заданию, используем команду: 
+
+>Switch#show run
+
+![Image alt]()
