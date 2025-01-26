@@ -50,3 +50,14 @@
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/interface%20vlan%201.jpg)
 
+IP-адрес **не назначен**, мак-адрес - напротив, поскольку, несмотря на то, что интерфейс виртуальный, необходимо взаимодействие на физическом уровне. Сам интерфейс **выключен** - привести его в действие возможно, используя команду **no shutdown** :
+
+>Switch#configure t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#int
+Switch(config)#interface vl
+Switch(config)#interface vlan 1
+Switch(config-if)#no
+Switch(config-if)#no shu
+Switch(config-if)#no shutdown<
+
