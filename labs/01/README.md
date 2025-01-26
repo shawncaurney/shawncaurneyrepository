@@ -46,3 +46,7 @@
 
 По результатам проверки - 24 **FastEthernet**, 2 **GigabitEthernet** и 2 диапазона **VTY** на 16 возможных вариантов удалённого подключения.
 
+Для изучения характеристик SVI для VLAN 1 выходим из привелегированного режима и используем команду **show interfaces vlan 1** , перед нами появляется его конфигурация : 
+
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/interface%20vlan%201.jpg)
+
