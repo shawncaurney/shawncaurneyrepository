@@ -36,6 +36,8 @@
 
 >startup-config is not present
 
+Конфигурация **НЕ ЗАПИСАНА**.
+
 Для проверки количества интерфейсов **FastEthernet**, **GigabitEthernet**, а также диапазон **VTY** согласно заданию, используем команду: 
 
 >Switch#show running-config
