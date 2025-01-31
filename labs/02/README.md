@@ -14,3 +14,9 @@
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/spc.jpg)
 
+Смотрим мак-адреса на ПК и коммутаторах :
+
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BC%D0%B0%D0%BA%D0%BF%D0%BA.jpg)
+
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BC%D0%B0%D0%BA%D1%811%D1%812.jpg)
+
