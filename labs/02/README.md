@@ -23,5 +23,3 @@
 Команда **show mac address-table** до и после отправки эхо-запросов : 
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%B4%D0%BE%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D1%8D%D1%85%D0%BE.jpg)
-
-!
