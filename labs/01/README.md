@@ -101,3 +101,5 @@ IP-адрес **не назначен**, мак-адрес - напротив, �
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D1%8D%D1%85%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF.jpg)
 
  !
+
+ !
