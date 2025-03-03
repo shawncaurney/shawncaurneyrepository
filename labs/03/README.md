@@ -6,6 +6,8 @@
 
 ## Решение :
 
+***Задание 1.***
+
 Вводим в IP-калькулятор вводные согласно заданию и жмём *Calculate*: 
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20IP.jpg)
@@ -43,6 +45,36 @@
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%201.jpg)
 
 Далее аналогичным образом решаем следующие примеры.
+
+***Задание 2.***
+
+Вводим в IP-калькулятор вводные согласно заданию и жмём *Calculate*:
+
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202%20-%2001.jpg)
+
+Мы видим префиксы исходной и новой масок подсети - /8 и /17 соответственно.
+
+Из полученной информации выясняем, что: 
+
+**Количество бит подсети : 17-8 = 9** *(биты разницы между подсетями)*
+
+**Количество созданных подсетей : 2 в 9 степени = 512** *(степень равна количеству бит подсети)*
+
+**Количество бит узлов подсети : 32 - 17 = 15** *(общее количество бит минус префикс новой маски подсети)*
+
+**Количество узлов в подсети : 2 в степени количества бит узлов подсети - 2 = 32768 - 2 = 32766** 
+
+Далее в списке IP-калькулятора ищем адреса, идентичные изначальному IP, ***но без учёта количества бит узлов подсети*** (в данном примере оно равно 15)
+
+*Для удобства вводим двоичное значение IP-адреса с оговорёнными условиями (здесь - без 15 бит узлов подсети) в поиске на странице.*
+
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2002%20%D1%81%D0%B5%D1%82%D0%B8.jpg)
+
+*Бонус : помимо необходимой информации, также количество созданных подсетей можно сверить в конце страницы калькулятора*
+
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2002%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%81%D0%B5%D1%82%D0%B5%D0%B9%20.jpg)
+
+Аналогично заносим результаты в таблицу.
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%202.jpg)
 
