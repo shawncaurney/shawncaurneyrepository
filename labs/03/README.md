@@ -91,6 +91,6 @@
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%205.jpg)
 
-***Задание 6.***
+***Задание 6.*** **(Ранее в нём была допущена ошибка, исправлено после отправки на доработку)**
 
-![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%206.jpg)
+![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2006.jpg)
