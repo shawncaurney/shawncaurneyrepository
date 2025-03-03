@@ -67,6 +67,7 @@
 Далее в списке IP-калькулятора ищем адреса, идентичные изначальному IP, ***но без учёта количества бит узлов подсети*** (в данном примере оно равно 15)
 
 *Для удобства вводим двоичное значение IP-адреса с оговорёнными условиями (здесь - без 15 бит узлов подсети) в поиске на странице.*
+**Важно - калькулятор ***УЖЕ*** отделяет пробелом нужное количество бит . Важно - чтобы значения слева были идентичны тем же, что в исходном IP** 
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2002%20%D1%81%D0%B5%D1%82%D0%B8.jpg)
 
@@ -78,8 +79,9 @@
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%202.jpg)
 
+***Задание 3.***
 
-![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%203.jpg)
+![Image alt]()
 
 
 ![Image alt](https://github.com/shawncaurney/shawncaurneyrepository/blob/main/labs/issue/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%204.jpg)
